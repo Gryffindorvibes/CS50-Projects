@@ -1,0 +1,94 @@
+
+.homepage {
+    background-image: url("background1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.cooking {
+    background-image: url("cooking.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.music {
+    background-image: url("music1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.running {
+    background-image: url("running.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#dub {
+    color: red;
+    text-align: center;
+    line-height: 2;
+    font-size: 60px;
+    font-family: serif;
+    opacity: 1;
+
+}
+
+#gub {
+    color: purple;
+    text-align: center;
+    line-height: 5;
+    font-size: 50px;
+    font-family: serif;
+    opacity: 1;
+}
+
+#cooktext {
+    color: powderblue;
+    text-align: left;
+    font-size: 30px;
+    font-family: serif;
+    text-wrap: balance;
+}
+
+#musictext {
+    color: BurlyWood;
+    text-align: left;
+    font-size: 30px;
+    font-family: serif;
+    text-wrap: balance;
+}
+
+#runtext {
+    color: FireBrick;
+    text-align: left;
+    font-size: 30px;
+    font-family: serif;
+    text-wrap: balance;
+}
+
+
+.container {
+    text-align: center;
+    border: 7px solid red;
+    width: 300px;
+    height: 200px;
+    padding-top: 100px
+}
+
+#shub:hover {
+    background-color: red;
+}
+
+#nub:hover {
+    background-color: red;
+}
+
+#zuli:hover {
+    background-color: red;
+}
+
+
+
+
