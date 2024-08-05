@@ -7,19 +7,19 @@
 }
 
 .cooking {
-    background-image: url("cooking.jpg");
+    background-image: url("CS50-Projects/cooking.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .music {
-    background-image: url("music1.jpg");
+    background-image: url("CS50-Projects/music1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .running {
-    background-image: url("running.jpg");
+    background-image: url("CS50-Projects/running.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
